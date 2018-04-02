@@ -1,4 +1,4 @@
-name := "scala"
+name := "macdo-es-workshop"
 
 version := "1.0"
 
